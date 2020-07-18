@@ -1,16 +1,41 @@
-### Hi there 👋
+## Masaki Kobayashi
 
-<!--
-**mkobayashime/mkobayashime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/mkobayashime">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.instagram.com/mkobayashime/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/mkobayashime">
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br>
+<br>
+
+Designer / Front-end developer
+
+Born on the 14th July, 2001
+
+> Design is relationships. Design is relationship between form and content. - Paul Rand
+
+### What's my focus
+
+**Front-end**
+
+JavaScript / Vue.js / Nuxt.js
+
+HTML / Pug / CSS / Sass
+
+Webpack / Node.js / Git / GitHub
+
+
+**Graphic**
+
+Adobe Illustrator / Photoshop / InDesign / Lightroom / XD / Premiere Pro
+
+**And more...**
+
+Branding design / UX design / Typesetting
