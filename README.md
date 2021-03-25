@@ -25,7 +25,9 @@ Born on the 14th July, 2001
 
 **Front-end**
 
-JavaScript / Vue.js / Nuxt.js
+TypeScript / JavaScript
+
+React / Next.js
 
 HTML / Pug / CSS / Sass
 
@@ -35,7 +37,3 @@ Webpack / Node.js / Git / GitHub
 **Graphic**
 
 Adobe Illustrator / Photoshop / InDesign / Lightroom / XD / Premiere Pro
-
-**And more...**
-
-Branding design / UX design / Typesetting
