@@ -33,6 +33,7 @@ HTML / Pug / CSS / Sass
 
 Webpack / Node.js / Git / GitHub
 
+Figma
 
 **Graphic**
 
