@@ -15,7 +15,7 @@
 <br>
 <br>
 
-Designer / Front-end developer
+Designer / Front-end engineer
 
 Born on the 14th July, 2001
 
