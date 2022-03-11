@@ -15,4 +15,4 @@ Designer / Front-end engineer
 
 Born on the 14th July, 2001
 
-> Design is relationships. Design is relationship between form and content. - Paul Rand
+Interested in the relationship between designing and implementation in application development.
