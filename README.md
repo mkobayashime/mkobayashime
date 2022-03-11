@@ -8,10 +8,6 @@
   <img align="left" alt="Instagram" width="24px" src="https://raw.githubusercontent.com/mkobayashime/mkobayashime/master/icons/instagram.svg" />
 </a>
 
-
-<a href="https://github.com/mkobayashime">
-  <img align="left" alt="GitHub" width="24px" src="https://raw.githubusercontent.com/mkobayashime/mkobayashime/master/icons/github.svg" />
-</a>
 <br>
 <br>
 
